@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Budgetly</string>
+    <string-array name="expense_categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Utilities</item>
+        <item>Health</item>
+        <item>Shopping</item>
+        <item>Education</item>
+        <item>Other</item>
+    </string-array>
+</resources>
